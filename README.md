@@ -19,9 +19,9 @@
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-000000?logo=gitlab&style=for-the-badge)
 
 ### Framework
-![Flask](https://img.shields.io/badge/Flask-000?logo=flask&style=for-the-badge)
-![Hugo](https://img.shields.io/badge/Hugo-000000?logo=hugo&style=for-the-badge)
 ![Zola](https://img.shields.io/badge/Zola-000000?logo=zola&style=for-the-badge)
+![Hugo](https://img.shields.io/badge/Hugo-000000?logo=hugo&style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000?logo=flask&style=for-the-badge)
 
 ### Terminal
 ![Alacritty](https://img.shields.io/badge/Alacritty-000000?logo=alacritty&style=for-the-badge)
@@ -35,17 +35,8 @@
 ![Vim](https://img.shields.io/badge/Vim-000000.svg?logo=vim&style=for-the-badge&logoColor=11AB00)
 ![Neovim](https://img.shields.io/badge/Neovim-000000?logo=neovim&style=for-the-badge&logoColor=57A143)
 
-<!--
-**darkseid-is/darkseid-is** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently working on
+Project            | Description
+:---------      | :---------
+[![zxc](https://img.shields.io/badge/zxc-000000?style=for-the-badge)](https://github.com/hail-hydrant/zxc) | Terminal based intercepting proxy written in rust with tmux and vim as user interface. 
+[![parseplz](https://img.shields.io/badge/parseplz-000000?style=for-the-badge)](https://github.com/parseplz) | An (almost) correct HTTP implementation in Rust.
