@@ -8,6 +8,7 @@
 ### Technologies
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-000000?logo=git&style=for-the-badge)
 
 ### Databases
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&style=for-the-badge)
@@ -23,17 +24,16 @@
 ![Hugo](https://img.shields.io/badge/Hugo-000000?logo=hugo&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-000?logo=flask&style=for-the-badge)
 
-### Terminal
-![Alacritty](https://img.shields.io/badge/Alacritty-000000?logo=alacritty&style=for-the-badge)
-![tmux](https://img.shields.io/badge/tmux-000000?logo=tmux&style=for-the-badge)
-![Zsh](https://img.shields.io/badge/Zsh-000000?logo=zsh&style=for-the-badge)
+<!-- ### Terminal -->
+<!-- ![Alacritty](https://img.shields.io/badge/Alacritty-000000?logo=alacritty&style=for-the-badge) -->
+<!-- ![tmux](https://img.shields.io/badge/tmux-000000?logo=tmux&style=for-the-badge) -->
+<!-- ![Zsh](https://img.shields.io/badge/Zsh-000000?logo=zsh&style=for-the-badge) -->
+<!-- ### Version Control -->
+<!-- ![Git](https://img.shields.io/badge/Git-000000?logo=git&style=for-the-badge) -->
+<!-- ### Editor -->
+<!-- ![Vim](https://img.shields.io/badge/Vim-000000.svg?logo=vim&style=for-the-badge&logoColor=11AB00) -->
+<!-- ![Neovim](https://img.shields.io/badge/Neovim-000000?logo=neovim&style=for-the-badge&logoColor=57A143) -->
 
-### Version Control
-![Git](https://img.shields.io/badge/Git-000000?logo=git&style=for-the-badge)
-
-### Editor
-![Vim](https://img.shields.io/badge/Vim-000000.svg?logo=vim&style=for-the-badge&logoColor=11AB00)
-![Neovim](https://img.shields.io/badge/Neovim-000000?logo=neovim&style=for-the-badge&logoColor=57A143)
 
 ## Currently working on
 Project            | Description
@@ -42,4 +42,4 @@ Project            | Description
 [![parseplz](https://img.shields.io/badge/parseplz-000000?style=for-the-badge)](https://github.com/parseplz) | An (almost) correct HTTP implementation in Rust.<br> Sponsored by [Caido](https://caido.io/)
 
 ## Contact
-[![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff&style=for-the-badge)](mailto:ghost_vici@protonmail.com) ghost_vici@protonmail.com
+[![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff)](mailto:ghost_vici@protonmail.com) ghost_vici@protonmail.com
