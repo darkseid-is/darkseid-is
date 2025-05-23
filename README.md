@@ -39,4 +39,7 @@
 Project            | Description
 :---------      | :---------
 [![zxc](https://img.shields.io/badge/zxc-000000?style=for-the-badge)](https://github.com/hail-hydrant/zxc) | Terminal based intercepting proxy written in rust with tmux and vim as user interface. 
-[![parseplz](https://img.shields.io/badge/parseplz-000000?style=for-the-badge)](https://github.com/parseplz) | An (almost) correct HTTP implementation in Rust.
+[![parseplz](https://img.shields.io/badge/parseplz-000000?style=for-the-badge)](https://github.com/parseplz) | An (almost) correct HTTP implementation in Rust.<br> Sponsored by [Caido](https://caido.io/)
+
+## Contact
+[![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff&style=for-the-badge)](mailto:ghost_vici@protonmail.com) ghost_vici@protonmail.com
