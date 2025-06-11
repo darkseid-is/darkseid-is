@@ -4,6 +4,7 @@
 ![Bash](https://img.shields.io/badge/Bash-000000?logo=gnubash&style=for-the-badge)
 ![C](https://img.shields.io/badge/C-000000.svg?&logo=C&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-%23000000.svg?logo=c%2B%2B&style=for-the-badge)
+![Vim](https://img.shields.io/badge/VimScript%208/9-000000.svg?logo=Vim&style=for-the-badge&logoColor=11AB00)
 
 ### Technologies
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&style=for-the-badge)
