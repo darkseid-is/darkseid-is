@@ -7,9 +7,9 @@
 ![Vim](https://img.shields.io/badge/VimScript%208/9-000000.svg?logo=Vim&style=for-the-badge&logoColor=11AB00)
 
 ### Technologies
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-000000?logo=git&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&style=for-the-badge)
 
 ### Databases
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&style=for-the-badge)
@@ -34,7 +34,6 @@
 <!-- ### Editor -->
 <!-- ![Vim](https://img.shields.io/badge/Vim-000000.svg?logo=vim&style=for-the-badge&logoColor=11AB00) -->
 <!-- ![Neovim](https://img.shields.io/badge/Neovim-000000?logo=neovim&style=for-the-badge&logoColor=57A143) -->
-
 
 ## Currently working on
 Project            | Description
